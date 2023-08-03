@@ -14,7 +14,7 @@ class ColorLoader4 extends StatefulWidget {
   ColorLoader4({
     this.dotOneColor = Colors.redAccent,
     this.dotTwoColor = Colors.green,
-    this.dotThreeColor = Colors.blueAccent,
+    this.dotThreeColor = Colors.pink,
     this.duration = const Duration(milliseconds: 1000),
     this.dotType = DotType.circle,
     this.dotIcon = const Icon(Icons.blur_on)
