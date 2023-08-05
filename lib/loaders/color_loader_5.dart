@@ -12,7 +12,7 @@ class ColorLoader5 extends StatefulWidget {
   final Icon dotIcon;
 
   ColorLoader5({
-    this.dotOneColor = Colors.redAccent,
+    this.dotOneColor = Colors.yellowAccent,
     this.dotTwoColor = Colors.green,
     this.dotThreeColor = Colors.blueAccent,
     this.duration = const Duration(milliseconds: 1000),
